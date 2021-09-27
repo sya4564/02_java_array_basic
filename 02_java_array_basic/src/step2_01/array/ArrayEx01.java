@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 /*
  * 
- * # 배열 ( array )  
+ * # 배열 ( array )   
  * 
  *  [ 형식 ]
  *  
