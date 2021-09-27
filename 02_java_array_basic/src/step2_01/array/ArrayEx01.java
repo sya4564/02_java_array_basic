@@ -4,7 +4,11 @@ import java.util.Arrays;
 
 /*
  * 
+<<<<<<< HEAD
  * # 배열 ( array )   
+=======
+ * # 배열 ( array )  
+>>>>>>> branch 'master' of https://github.com/sya4564/02_java_array_basic
  * 
  *  [ 형식 ]
  *  
